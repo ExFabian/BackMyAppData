@@ -10,7 +10,7 @@ BackMyAppData is a simple app that can create and restore backups of the "AppDat
 
 # Where do I install it?
 
-Every release is available under the, well, releases page, accessible through the sidebar. (or you can click [here](github.com/ExFabian/BackMyAppData/releases))
+Every release is available under the, well, releases page, accessible through the sidebar. (or you can click [here](https://www.github.com/ExFabian/BackMyAppData/releases))
 
 # Building
 
